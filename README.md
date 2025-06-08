@@ -108,15 +108,16 @@ To compare model performance, the following metrics were used:
 1. **Clone the repository**:
 ```bash
    git clone https://github.com/pradeepsingh077/Iris-Species-Classification-Using-Machine-Learning.git
-
+```
 
 # Install the required libraries:
-
+```bash
 pip install -r requirements.txt
-
+```
 # Run the Jupyter Notebook:
-
+```bash
 jupyter notebook iris_classification.ipynb
+```
 
 # 🔮 Future Improvements
 Deploy the model using Flask or Streamlit for interactive use.
