@@ -131,8 +131,8 @@ Convert the notebook into a standalone Python script or web app.
 # 📄 License
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
-Pradeep Singh
+# 🙋‍♂️ Author
+   Pradeep Singh
 📍 Noida, India
 Linked: https://www.linkedin.com/in/pradeep-singh-585931230/
 
